@@ -1,5 +1,7 @@
 # CPPrime
-Prime number generator written in C++
+C++ implementation of the Sieve of Eratosthenes prime finding algorithm. 
+
+This program generates a list of prime numbers between 0 and a specified ending point, then writes them to `/bin/primes.txt`
 
 ## Run
 To run, navigate to the bin file and run `a.exe`
