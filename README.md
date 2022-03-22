@@ -7,5 +7,7 @@ Additionally, in a windows command line interface, you can navigate to `/scripts
 
 ## Build
 Navigate to `/scripts`
+
 In a windows command line interface, you can use the `build` command
+
 Additionally, you can compile with the `g++ ../main.cpp` command
