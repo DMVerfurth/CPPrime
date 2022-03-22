@@ -1,6 +1,8 @@
 # CPPrime
 C++ implementation of the Sieve of Eratosthenes prime finding algorithm. 
 
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Algorithmic_complexity
+
 This program generates a list of prime numbers between 0 and a specified ending point, then writes them to `/bin/primes.txt`
 
 ## Run
